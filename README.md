@@ -2,7 +2,10 @@
 # YourSearch
 
 
-An Open Source search engine + web crawler
+An Open Source search engine + web crawler.
+
+
+This is a work in progress and at it's very initial stages, not fit for production use.
 
 
 ![search](https://raw.githubusercontent.com/fifthsegment/yoursearch/master/demo/search.png)
