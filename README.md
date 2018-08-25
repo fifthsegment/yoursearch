@@ -24,10 +24,11 @@ Results
 The search engine has 2 components ; a crawler and the server. The crawler crawls the web and sends crawled page contents back to the server. The server stores these contents in a database. Whenever a user wants to search anything, the server performs a database search operation over the stored contents.
 
 
-## Issues
+## Issues/TODO
 
 * Indexing is slow.
 * Change database backend from MySQL to something fast; maybe Mongodb.
+* Secure communication between server and crawler
 
 
 ## Requirements 
