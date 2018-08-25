@@ -1,0 +1,8 @@
+{
+    "rurlep" : "http://35.156.173.29.nip.io/index.php/Api/recordUrl" ,
+    "durlep" : "http://35.156.173.29.nip.io/index.php/Api/recordData" ,
+    "curlep" : "http://35.156.173.29.nip.io/index.php/Api/checkUrl",
+    "gurlep" : "http://35.156.173.29.nip.io/index.php/Api/getUrl",
+    "test" : "https://moz.com/top500",
+    "start_point" : "https://abdullahirfan.com/"
+}
